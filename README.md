@@ -13,6 +13,7 @@ ___
 - 📖 Life-long Learner
 - 🗺️ Located in the Bay Area, CA
 - 😄 Pronouns: She | Her | Hers
+- 🍳 Hobbies include cooking, being in nature, and discussing philosophy, psychology, sociology, and child development!
 
  ## Tech
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
